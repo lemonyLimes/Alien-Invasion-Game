@@ -1,3 +1,0 @@
-([('alien_invasion',
-   '/Users/ethanrizko/Desktop/python_work/Alien-Invasion-Game/dist/alien_invasion',
-   'EXECUTABLE')],)
