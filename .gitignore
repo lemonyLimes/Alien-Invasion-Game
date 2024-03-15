@@ -3,4 +3,4 @@ __pycache__/
 dist/
 build/
 images/
-
+.DS_Store
