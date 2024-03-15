@@ -1,5 +1,5 @@
 *.icns
-__pycache__
-dist
-build
-images
+__pycache__/
+dist/
+build/
+images/
